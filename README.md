@@ -1,21 +1,7 @@
-# Exploratory Analysis of Financial Transactions
+## Author
 
-## Project Type
+Saini Sarkar  
 Minor Project - Data Science Domain
-
-## Problem Statement
-Financial datasets are complex and require careful analysis to detect useful patterns. This project performs exploratory data analysis on credit card transaction data to identify transaction trends, class imbalance, and suspicious patterns related to fraud.
-
-## Objective
-To explore financial transaction data, understand transaction-level features, visualize distributions, and highlight suspicious patterns using Python, Pandas, and Matplotlib.
-
-## Dataset
-Credit Card Fraud Detection Dataset from Kaggle:
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-
-The dataset contains anonymized credit card transactions. Most features are PCA-transformed for privacy.
-
-### Important Columns
 | Column | Description |
 |---|---|
 | Time | Seconds elapsed between transactions |
